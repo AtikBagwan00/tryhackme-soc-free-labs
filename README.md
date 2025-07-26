@@ -29,9 +29,11 @@ Whether you're a beginner or preparing for certifications like:
 
 | 🔎 Topic                          | Room Name                      | Link                                                                 |
 |----------------------------------|--------------------------------|----------------------------------------------------------------------|
-| 📘 IR Playbooks                  | IR Playbooks                   | [🔗 Visit](https://tryhackme.com/room/irplaybooks)                   |
-| 🧠 SOC Analyst Basics            | SOC L1 Alert Reporting         | [🔗 Visit](https://tryhackme.com/room/socl1alertreporting)           |
-| 🕵️ Threat Hunting Without Logs   | Logless Hunt                   | [🔗 Visit](https://tryhackme.com/room/loglesshunt)                   |
+| 📊 Introduction to SIEM          | Introduction to SIEM           | [🔗 Visit](https://tryhackme.com/room/introtosiem)                  |
+| 📘 IR Playbooks                  | IR Playbooks                   | [🔗 Visit](https://tryhackme.com/room/irplaybooks)                  |
+| 🎯 Splunk: Exploring SPL         | Splunk: Exploring SPL                  | [🔗 Visit](https://tryhackme.com/room/splunkexploringspl)   |
+| 🧠 SOC Analyst Basics            | SOC L1 Alert Reporting         | [🔗 Visit](https://tryhackme.com/room/socl1alertreporting)          |
+| 🕵️ Threat Hunting Without Logs   | Logless Hunt                   | [🔗 Visit](https://tryhackme.com/room/loglesshunt)                  |
 | ⚔️ APT Detection (Volt Typhoon) | Volt Typhoon                   | [🔗 Visit](https://tryhackme.com/room/volttyphoon)                   |
 | 🪵 Windows Log Analysis         | Windows Logging for SOC        | [🔗 Visit](https://tryhackme.com/room/windowsloggingforsoc)          |
 | 📂 Windows Threat Detection     | Windows Threat Detection 1     | [🔗 Visit](https://tryhackme.com/room/windowsthreatdetection1)       |

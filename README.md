@@ -72,6 +72,7 @@ If you find this project helpful and want to support my work:
 
 - ☕ [Buy Me a Coffee](https://buymeacoffee.com/visir)
 - 💸 [Donate via PayPal](https://paypal.me/Visir866?country.x=IN&locale.x=en_GB)
+- ₿ BTC wallet: 0xB8061916BF00F1ca7C4C252533BdEeC18B86bcD3
 
 Your support helps me keep this project up to date for the Blue Team community 🙏
 

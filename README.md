@@ -44,6 +44,7 @@ Whether you're a beginner or preparing for certifications like:
 | 🧮 ELK: Servidae                | Log Analysis in ELK            | [🔗 Visit](https://tryhackme.com/room/servidae)                 |
 | ❄️ TShark                       | Network Traffic Analysis       | [🔗 Visit](https://tryhackme.com/room/tshark)                   |
 | 🌐 Wireshark                    | Wireshark: The Basics          | [🔗 Visit](https://tryhackme.com/room/wiresharkthebasics)      |
+| 🌐 Event Horizon                | Wireshark + file analysis      | [🔗 Visit](https://tryhackme.com/room/eventhorizonroom)        |
 | 🧾 NetworkMiner                 | NetworkMiner Forensics         | [🔗 Visit](https://tryhackme.com/room/networkminer)             |
 | 🪟 Windows Event Logs           | Windows Event Analysis         | [🔗 Visit](https://tryhackme.com/room/windowseventlogs)         |
 | 👨‍💻 Investigating Windows       | Event Log Forensics            | [🔗 Visit](https://tryhackme.com/room/investigatingwindows)     |

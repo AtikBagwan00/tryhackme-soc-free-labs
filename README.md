@@ -30,6 +30,8 @@ Whether you're a beginner or preparing for certifications like:
 | 📚 Title                         | Subtitle                       | 🔗 Link                                                         |
 |----------------------------------|--------------------------------|------------------------------------------------------------------|
 | 📊 Introduction to SIEM          | Introduction to SIEM           | [🔗 Visit](https://tryhackme.com/room/introtosiem)              |
+| 🗂️ File and Hash Threat Intel   | Threat Intel & File Hashes     | [🔗 Visit](https://tryhackme.com/room/fileandhashthreatintel)   |
+
 | 📘 IR Playbooks                  | IR Playbooks                   | [🔗 Visit](https://tryhackme.com/room/irplaybooks)              |
 | 🧠 Splunk: Exploring SPL         | Splunk: Exploring SPL          | [🔗 Visit](https://tryhackme.com/room/splunkexploringspl)       |
 | 🧠 SOC Analyst Basics            | SOC L1 Alert Reporting         | [🔗 Visit](https://tryhackme.com/room/socl1alertreporting)      |

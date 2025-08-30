@@ -34,7 +34,7 @@ Whether you're a beginner or preparing for certifications like:
 | Icon | Title                        | Subtitle                       | Link |
 |------|------------------------------|--------------------------------|------|
 | 📊   | Introduction to SIEM         | Introduction to SIEM           | [🔗 Visit](https://tryhackme.com/room/introtosiem)              |
-| 🖥️   | Introduction to EDR     | Learn the fundamentals of Endpoint Detection and Response and explore its features and working. | [🔗 Visit](https://tryhackme.com/room/introductiontoedrs) |
+| 🖥️   | Introduction to EDR     | Learn the fundamentals of Endpoint Detection and Response | [🔗 Visit](https://tryhackme.com/room/introductiontoedrs) |
 | 📘   | IR Playbooks                 | IR Playbooks                   | [🔗 Visit](https://tryhackme.com/room/irplaybooks)              |
 | 🗂️   | File and Hash Threat Intel   | Threat Intel & File Hashes     | [🔗 Visit](https://tryhackme.com/room/fileandhashthreatintel)   |
 | 🧠   | Splunk: Exploring SPL        | Splunk: Exploring SPL          | [🔗 Visit](https://tryhackme.com/room/splunkexploringspl)       |

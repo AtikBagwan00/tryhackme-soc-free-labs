@@ -67,6 +67,8 @@ Whether you're a beginner or preparing for certifications like:
 | 🕷️   | Carnage                      | Traffic Analysis Challenge     | [🔗 Visit](https://tryhackme.com/room/carnage)                  |
 | 📌   | CCT2019                      | PCAP Forensics Competition     | [🔗 Visit](https://tryhackme.com/room/cct2019)                  |
 | 📡   | Overpass 2 - Hacked          | IR via Log Analysis            | [🔗 Visit](https://tryhackme.com/room/overpass2hacked)          |
+| ⚡   | Detecting Web Attacks         | Explore web attacks and detection methods            | [🔗 Visit](https://tryhackme.com/room/detectingwebattacks)          |
+
 
 ---
 

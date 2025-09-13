@@ -33,6 +33,7 @@ Whether you're a beginner or preparing for certifications like:
 
 | Icon | Title                        | Subtitle                       | Link |
 |------|------------------------------|--------------------------------|------|
+| 🔵   | SOC Role in Blue Team        | Discover security roles        | [🔗 Visit](https://tryhackme.com/room/socroleinblueteam)        |
 | 📊   | Introduction to SIEM         | Introduction to SIEM           | [🔗 Visit](https://tryhackme.com/room/introtosiem)              |
 | 🖥️   | Introduction to EDR     | Learn the fundamentals of Endpoint Detection and Response | [🔗 Visit](https://tryhackme.com/room/introductiontoedrs) |
 | 📘   | IR Playbooks                 | IR Playbooks                   | [🔗 Visit](https://tryhackme.com/room/irplaybooks)              |

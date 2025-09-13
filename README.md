@@ -69,6 +69,8 @@ Whether you're a beginner or preparing for certifications like:
 | 📌   | CCT2019                      | PCAP Forensics Competition     | [🔗 Visit](https://tryhackme.com/room/cct2019)                  |
 | 📡   | Overpass 2 - Hacked          | IR via Log Analysis            | [🔗 Visit](https://tryhackme.com/room/overpass2hacked)          |
 | ⚡   | Detecting Web Attacks         | Explore web attacks and detection methods            | [🔗 Visit](https://tryhackme.com/room/detectingwebattacks)          |
+| 🔎   | Identification & Scoping         | A look into the second phase of the Incident            | [🔗 Visit](https://tryhackme.com/room/identificationandscoping)          |
+
 
 
 ---

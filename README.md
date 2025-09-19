@@ -70,6 +70,9 @@ Whether you're a beginner or preparing for certifications like:
 | 📡   | Overpass 2 - Hacked          | IR via Log Analysis            | [🔗 Visit](https://tryhackme.com/room/overpass2hacked)          |
 | ⚡   | Detecting Web Attacks         | Explore web attacks and detection methods            | [🔗 Visit](https://tryhackme.com/room/detectingwebattacks)          |
 | 🔎   | Identification & Scoping         | A look into the second phase of the Incident            | [🔗 Visit](https://tryhackme.com/room/identificationandscoping)          |
+| 🛡️   | AppSec IR                        | Application Security Incident Response                   | [🔗 Visit](https://tryhackme.com/room/appsecir)                         |
+| 🔗   | Chaining Vulnerabilities         | Exploit Chain Analysis                                   | [🔗 Visit](https://tryhackme.com/room/chainingvulnerabilitiesZp)        |
+| 🐧   | Linux Logging for SOC            | Linux Log Analysis for SOC                               | [🔗 Visit](https://tryhackme.com/room/linuxloggingforsoc)               |
 
 
 

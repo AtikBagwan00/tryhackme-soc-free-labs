@@ -56,6 +56,7 @@ Whether you're a beginner or preparing for certifications like:
 | 🌐   | Event Horizon                | Wireshark + file analysis      | [🔗 Visit](https://tryhackme.com/room/eventhorizonroom)         |
 | 🧾   | NetworkMiner                 | NetworkMiner Forensics         | [🔗 Visit](https://tryhackme.com/room/networkminer)             |
 | 🔒   | Network Security Essentials  | Network security monitoring & protection | [🔗 Visit](https://tryhackme.com/room/networksecurityessentials) |
+| 🔍   | Network Discovery Detection   | Detect network asset discovery activity | [🔗 Visit](https://tryhackme.com/room/networkdiscoverydetection) |
 | 🪟   | Windows Event Logs           | Windows Event Analysis         | [🔗 Visit](https://tryhackme.com/room/windowseventlogs)         |
 | 👨‍💻 | Investigating Windows        | Event Log Forensics            | [🔗 Visit](https://tryhackme.com/room/investigatingwindows)     |
 | 🔍   | Investigating Windows 2.0    | Windows Log Forensics          | [🔗 Visit](https://tryhackme.com/room/investigatingwindows2)    |

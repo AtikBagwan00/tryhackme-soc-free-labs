@@ -51,6 +51,7 @@ Whether you're a beginner or preparing for certifications like:
 | 🧿   | Wazuh                        | Wazuh SIEM Lab                 | [🔗 Visit](https://tryhackme.com/room/wazuhct)                  |
 | 📊   | ELK 101                      | Investigating with ELK 101     | [🔗 Visit](https://tryhackme.com/room/investigatingwithelk101)  |
 | 🧮   | ELK: Servidae                | Log Analysis in ELK            | [🔗 Visit](https://tryhackme.com/room/servidae)                 |
+| 📶   | Network Traffic Basics       | Network Traffic Analysis Basics | [🔗 Visit](https://tryhackme.com/room/networktrafficbasics)     |
 | ❄️   | TShark                       | Network Traffic Analysis       | [🔗 Visit](https://tryhackme.com/room/tshark)                   |
 | 🌐   | Wireshark                    | Wireshark: The Basics          | [🔗 Visit](https://tryhackme.com/room/wiresharkthebasics)       |
 | 🌐   | Event Horizon                | Wireshark + file analysis      | [🔗 Visit](https://tryhackme.com/room/eventhorizonroom)         |

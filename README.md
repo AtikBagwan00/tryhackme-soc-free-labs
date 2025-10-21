@@ -46,6 +46,7 @@ Whether you're a beginner or preparing for certifications like:
 | 🪵   | Windows Log Analysis         | Windows Logging for SOC        | [🔗 Visit](https://tryhackme.com/room/windowsloggingforsoc)     |
 | 📂   | Windows Threat Detection     | Windows Threat Detection 1     | [🔗 Visit](https://tryhackme.com/room/windowsthreatdetection1)  |
 | 🐧   | Linux Threat Detection 1     | Explore how attackers break into Linux systems and how you can detect this in logs | [🔗 Visit](https://tryhackme.com/room/linuxthreatdetection1)    |
+| 🍯   | Initial Access Pot           | Investigate the first, Linux part of the Honeynet Collapse! | [🔗 Visit](https://tryhackme.com/room/initialaccesspot)         |
 | 🧾   | Intro to Logs                | Intro to Logs                  | [🔗 Visit](https://tryhackme.com/room/introtologs)              |
 | 🛠️   | Splunk 101                   | Splunk Basics (101)            | [🔗 Visit](https://tryhackme.com/room/splunk101)                |
 | 🧿   | Wazuh                        | Wazuh SIEM Lab                 | [🔗 Visit](https://tryhackme.com/room/wazuhct)                  |

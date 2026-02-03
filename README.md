@@ -91,8 +91,7 @@ Whether you're a beginner or preparing for certifications like:
 
 ## 💙 Support the Project
 
-<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2248409" style='border:none;'></iframe>
-" alt="TryHackMe Badge" />
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2248409" style='border:none;'></iframe>
 
 If you find this project helpful and want to support my work:
 

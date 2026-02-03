@@ -91,7 +91,7 @@ Whether you're a beginner or preparing for certifications like:
 
 ## 💙 Support the Project
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Visir.png)](https://tryhackme.com/p/Visir)
+<img src="https://tryhackme-badges.s3.amazonaws.com/Visir.png" alt="TryHackMe Badge" />
 
 If you find this project helpful and want to support my work:
 

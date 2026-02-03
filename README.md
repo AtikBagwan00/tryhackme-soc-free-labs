@@ -69,6 +69,7 @@ Whether you're a beginner or preparing for certifications like:
 | 🔬   | YARA                         | Malware Rules & Detection      | [🔗 Visit](https://tryhackme.com/room/yara)                     |
 | 🧠   | YARA Advanced                | Threat Hunting with YARA       | [🔗 Visit](https://tryhackme.com/room/threathuntingwithyara)    |
 | 📑   | SOC Alert Triage             | SOC L1 Alert Triage            | [🔗 Visit](https://tryhackme.com/room/socl1alerttriage)         |
+| 🎯   | First Shift CTF              | The first SOC shift won't be that challenging, right? | [🔗 Visit](https://tryhackme.com/room/first-shift-ctf)          |
 | 📊   | MS Sentinel                  | MS Sentinel: Just Looking      | [🔗 Visit](https://tryhackme.com/room/mssentineljustlooking)    |
 | 🕳️   | h4cked                       | PCAP Investigation             | [🔗 Visit](https://tryhackme.com/room/h4cked)                   |
 | 🕷️   | Carnage                      | Traffic Analysis Challenge     | [🔗 Visit](https://tryhackme.com/room/carnage)                  |
